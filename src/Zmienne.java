@@ -25,5 +25,7 @@ public class Zmienne {
         char znak = 'g';
 
         boolean twierdzenie = true; //false
+
+        //     https://github.com/przemjan/trzeciaDgr1
     }
 }
