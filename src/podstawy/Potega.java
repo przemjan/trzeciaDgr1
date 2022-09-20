@@ -1,3 +1,5 @@
+package podstawy;
+
 public class Potega {
     public static void main(String[] args) {
 
