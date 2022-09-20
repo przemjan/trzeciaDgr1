@@ -20,7 +20,7 @@ public class Srednia1 {
 
         if (srednia ==  5) {
             System.out.println("Świetnie! " + srednia);
-
+            System.out.println("Wyślij list do rodziców");
         }
 
         if (srednia == 1){

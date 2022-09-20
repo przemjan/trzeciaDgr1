@@ -5,7 +5,7 @@ public class CharIsNumber {
         char litera1 = 'a';
         char litera2 = 'b';
 
-        System.out.println(litera1+""+litera2);
+        System.out.println(litera1+litera2);
 
         int number = litera1;
 

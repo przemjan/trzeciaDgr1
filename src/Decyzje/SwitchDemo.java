@@ -10,6 +10,7 @@ public class SwitchDemo {
         String answer = scan.nextLine().toLowerCase();
 
         char litera = answer.charAt(0);
+        int number = 13;
 
         switch (litera) {
             case 'a':
